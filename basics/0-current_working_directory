@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "the directory is $(pwd)"
+echo $PWD

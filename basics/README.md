@@ -1,2 +1,5 @@
 The script based on 0-current working directory is used to prints the absolute path name of the current working directory
 The script based on 1-listit is used to Display the contents list of your current directory
+The script based on 2-bring me home is used to change the current directory to the home directory
+The script based on 3-listfiles is used to list the files in the basics directory
+The script based on 4-listmorefiles is used to list the files in the basics directory, including the hiding files with the ' . '

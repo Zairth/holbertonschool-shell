@@ -5,3 +5,4 @@ The script based on 3-listfiles is used to list the files in the basics director
 The script based on 4-listmorefiles is used to list the files in the basics directory, including the hiding files with the ' . '
 The script based on 5-listfilesdigitonly is used to list the current directory content in a long format, with user and group IDs displayed numerically and hidden files started with ' . '
 The script based on 6-firstdirectory is used to create a new Directory from the current working directory to the tmp directory
+The script based on 7-movethatfile is used to move a file from the tmp directory to another directory

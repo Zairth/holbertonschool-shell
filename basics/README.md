@@ -8,3 +8,4 @@ The script based on 6-firstdirectory is used to create a new Directory from the 
 The script based on 7-movethatfile is used to move a file from the tmp directory to another directory
 The script named 8-firstdelete is used to delete the file "betty"
 The script named 9-firstdirdelation is used to delete the directory 'my first directory'
+The script named 10-back is used to move from a path to the previous one

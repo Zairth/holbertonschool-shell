@@ -1,2 +1,2 @@
 #!/bin/bash
-export USER='''MyUser''' | printf "Hello \"%s\"" "$USER"
+export USER='''MyUser''' | echo "Hello $USER"

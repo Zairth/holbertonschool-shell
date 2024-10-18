@@ -1,2 +1,2 @@
 #!/bin/bash
-export DECIMAL | echo $((10#$DECIMAL))
+export DECIMAL | printf "%x" $DECIMAL
